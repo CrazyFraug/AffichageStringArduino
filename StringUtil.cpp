@@ -8,6 +8,7 @@
 
 #include "StringUtil.h"
 
+// use for %sizeMax.nbDecim1f  format
 String d2Stringe(double myDouble, int nbDecim1, int sizeMax)
 {
    char acTmp[sizeMax+1];
