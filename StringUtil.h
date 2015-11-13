@@ -10,8 +10,10 @@
  
 #include <Arduino.h>
 
+// dtostre safe
 String d2Stringe(double myDouble, int nbDecim1, int sizeMax=20);
 
+// dtostrf safe
 String d2Stringf(double myDouble, int nbDecim1, int sizeMax=20);
 
 
