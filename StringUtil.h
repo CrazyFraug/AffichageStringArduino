@@ -1,5 +1,6 @@
 /*
    API to build a message for serial com
+   string constructors for float
  
  A. Bozec added d2Stringe and d2Stringf for float conversion
  
